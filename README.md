@@ -1,69 +1,59 @@
-# 👋 **Hi there! I'm Balint Gersey,**  
-### a *Quantitative Researcher* and *Developer* based in Switzerland.
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  </head>
+  <body>
+    <div class="container">
+      <h1>👋 Hi there! I'm Balint Gersey,</h1>
+      <h3>a <em>Quantitative Researcher</em> and <em>Developer</em> based in Switzerland.</h3>
+      <hr>
+      <p><strong>Passionate about:</strong> Mathematical Statistics, Financial Mathematics, Data Science, AI, and all things related to Software Engineering.</p>
+      <p><strong>How to reach me:</strong> <a href="https://www.linkedin.com/in/balintgersey/">LinkedIn</a></p>
+      <hr>
+      <h2>Academic Background:</h2>
+      <ul>
+        <li>Machine Learning</li>
+        <li>Statistics</li>
+        <li>Data Analysis</li>
+        <li>Stochastic Finance</li>
+        <li>Computational Methods for Quantitative Finance</li>
+      </ul>
+      <hr>
+      <h2>Professional Experience:</h2>
+      <ul>
+        <li>Mathematical Modeling of Financial Markets</li>
+        <li>Quantitative Portfolio Management and Optimization</li>
+        <li>Risk Management</li>
+        <li>Financial Mathematics</li>
+        <li>Statistical Learning Algorithms for Alpha Generation</li>
+        <li>Convex Optimization</li>
+      </ul>
+      <hr>
+      <h2>Publications:</h2>
+      <p><strong>Computation of Conditional Expectations with Guarantees</strong><br>
+      Springer, Journal of Scientific Computing<br>
+      Patrick Cheridito and Balint Gersey<br>
+      02/2023<br>
+      <a href="https://link.springer.com/article/10.1007/s10915- 023-02130-8">Link to paper</a></p>
+      <hr>
+      <h2>Skills:</h2>
+      <p><strong>Quantitative Research:</strong> Alpha Signal Generation, Asset Management, Quantitative Risk Management, Portfolio Management<br>
+      <strong>Mathematical Skills:</strong> Computational Statistics, Mathematical Optimization, Convex Analysis, Stochastic Analysis, Stochastic Optimal Control, Financial Mathematics<br>
+      <strong>Programming:</strong> Python, R, C++, SQL<br>
+      <strong>Libraries:</strong> Pandas, NumPy, SciPy, statsmodels, Scikit-Learn, Keras, TensorFlow, PyTorch<br>
+      <strong>Visualization:</strong> Matplotlib, Seaborn, Plotly<br>
+      <strong>Optimization Tools:</strong> MOSEK, CVXOPT, CVXPY<br>
+      <strong>Version Control:</strong> Git / GitLab<br>
+      <strong>Deployment:</strong> Docker, Azure, CI / CD pipeline<br>
+      <strong>Soft Skills:</strong> My technical skill set is complemented by strong communication skills developed through academic teaching and a very down to earth empathic personality.</p>
+      <hr>
+      <h2>Passions (outside of math and software engineering 😉):</h2>
+      <p>Sports have taught me high precision, determination, and a willingness to never give up.<br>
+      Reading nurtures personal growth, fostering lifelong learning and curiosity.</p>
+    </div>
+  </body>
+  </html>
 
----
-
-👀 **Passionate about:**  
-**Mathematical Statistics, Financial Mathematics, Data Science, AI,**  
-and all things related to **Software Engineering**.
-
-📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/balintgersey/)
-
----
-
-## **Academic Background:**
-**University of Cambridge** and **ETH Zürich**
-
-- Machine Learning
-- Statistics
-- Data Analysis
-- Stochastic Finance
-- Computational Methods for Quantitative Finance
-
----
-
-## **Professional Experience:**
-Bringing forth more than **6 years** of dedicated expertise in quantitative research, I specialize in:
-
-- **Mathematical Modeling of Financial Markets:** Crafting sophisticated models to comprehend and predict the intricate dynamics of financial markets.
-  
-- **Quantitative Portfolio Management and Optimization:** Employing advanced mathematical techniques to construct and optimize investment portfolios, striving for superior risk-adjusted returns.
-
-- **Risk Management:** Implementing robust strategies to identify, assess, and mitigate various financial risks, safeguarding assets and investments.
-
-- **Financial Mathematics:** Proficient in the intricate realm of financial mathematics, including Derivative Pricing, Stochastic Calculus, and Numerical Methods for Quantitative Finance, among others.
-
-- **Statistical Learning Algorithms for Alpha Generation:** Leveraging statistical learning algorithms to identify profitable trading opportunities and generate alpha in dynamic market conditions.
-
-- **Convex Optimization:** Harnessing the power of convex optimization techniques to address complex optimization problems, optimizing investment strategies and portfolio construction.
-
-- **...**
-  
----
-
-## **Publications:**
-
-- **Computation of Conditional Expectations with Guarantees**  
-  *Springer, Journal of Scientific Computing*  
-  *Patrick Cheridito and Balint Gersey*  
-  *02/2023*  
-  [Link to paper](https://link.springer.com/article/10.1007/s10915- 023-02130-8)  
-
----
-
-## **Skills:**
-
-**Quantitative Research:** Alpha Signal Generation, Asset Management, Quantitative Risk Management, Portfolio Management  
-**Mathematical Skills:** Computational Statistics, Mathematical Optimization, Convex Analysis, Stochastic Analysis, Stochastic Optimal Control, Financial Mathematics  
-**Programming:** Python, R, C++, SQL  
-**Libraries:** Pandas, NumPy, SciPy, statsmodels, Scikit-Learn, Keras, TensorFlow, PyTorch  
-**Visualization:** Matplotlib, Seaborn, Plotly  
-**Optimization Tools:** MOSEK, CVXOPT, CVXPY  
-**Version Control:** Git / GitLab  
-**Deployment:** Docker, Azure, CI / CD pipeline
-
-
-My skill set is complemented by strong communication skills developed through academic teaching.
 
 <!---
 balintg1994/balintg1994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
