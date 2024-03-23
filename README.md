@@ -38,7 +38,7 @@
       Springer, Journal of Scientific Computing<br>
       Patrick Cheridito and Balint Gersey<br>
       02/2023<br>
-      <a href="https://link.springer.com/article/10.1007/s10915- 023-02130-8">Link to paper</a> <br>
+      <a href="https://link.springer.com/article/10.1007/s10915-023-02130-8">Link to paper</a> <br>
       Link to GitHub Repository: coming soon</p>
       <hr>
       <h2>Skills:</h2>
