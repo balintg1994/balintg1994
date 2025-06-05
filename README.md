@@ -5,7 +5,7 @@
   <body>
     <div class="container">
       <h1 align="center">👋 Hi there! I'm Balint Binkert (born Gersey),</h1>
-      <h3 align="center">a <em>Quantitative Researcher</em> and <em>Developer</em> based in Switzerland.</h3>
+      <h3 align="center">a <em>Mathematicianr</em> and <em>Software Developer</em> based in Switzerland.</h3>
       <hr>
       <p><strong>Passionate about:</strong> Mathematical Statistics, Financial Mathematics, Data Science, AI, and all things related to Software Engineering.</p>
       <p><strong>How to reach me:</strong> <a href="https://www.linkedin.com/in/balintgersey/">LinkedIn</a></p>
