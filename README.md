@@ -8,7 +8,6 @@
       <h3 align="center">a <em>Mathematician</em> and <em>Software Developer</em> based in Switzerland.</h3>
       <hr>
       <p><strong>Passionate about:</strong> Mathematical Statistics, Financial Mathematics, Data Science, AI, and all things related to Software Engineering.</p>
-      <p><strong>How to reach me:</strong> <a href="https://www.linkedin.com/in/balintgersey/">LinkedIn</a></p>
       <p float="left">
         <img src="https://github-readme-stats.vercel.app/api?username=balintg1994&&count_private=true&show_icons=true&hide_border=true&locale=en&custom_title=&title_color=142d70&icon_color=142d70&cache_seconds=3600" width="450" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balintg1994&layout=compact&hide_border=true&title_color=142d70" width="350"/>
